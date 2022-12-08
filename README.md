@@ -19,8 +19,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meheroke&theme=dark)](https://git.io/streak-stats)
 
-[![Mehers's GitHub stats](https://github-readme-stats.vercel.app/api?username=meheroke)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Mehers's GitHub stats](https://github-readme-stats.vercel.app/api?username=meheroke&show_icons=true&theme=radical)
 
