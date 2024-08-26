@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **my dog.**
 
-- 📫 How to reach me **meheroke@gmail.com**
-
 - ⚡ Fun fact **I speak German**
 
 <h3 align="left">Connect with me:</h3>
